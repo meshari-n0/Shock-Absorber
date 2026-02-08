@@ -1,5 +1,3 @@
-
-https://github.com/user-attachments/assets/c51b9e32-ce22-42e4-bfbc-8f95b6b56562
 # Shock Absorber – CAD Assembly (Onshape)
 
 A fully modeled and assembled **shock absorber** designed in **Onshape**, built from technical drawings and assembled with proper mates to simulate realistic motion.
@@ -63,4 +61,4 @@ This enables the shock absorber to behave similarly to a real suspension system.
 
 ## Preview
 <img width="419" height="970" alt="لقطة شاشة 2026-02-08 130803" src="https://github.com/user-attachments/assets/a61d219d-336a-4569-8ed0-cc17c0ec420c" />
-Uploading تسجيل 2026-02-08 131151.mp4…
+https://github.com/user-attachments/assets/c51b9e32-ce22-42e4-bfbc-8f95b6b56562
