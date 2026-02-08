@@ -62,3 +62,4 @@ This enables the shock absorber to behave similarly to a real suspension system.
 ## Preview
 <img width="419" height="970" alt="لقطة شاشة 2026-02-08 130803" src="https://github.com/user-attachments/assets/a61d219d-336a-4569-8ed0-cc17c0ec420c" />
 
+<img width="700" height="1031" alt="لقطة شاشة 2026-02-08 130930" src="https://github.com/user-attachments/assets/9f428b39-5882-41cd-9cc7-00d87584bb16" />
