@@ -60,13 +60,5 @@ This enables the shock absorber to behave similarly to a real suspension system.
 ---
 
 ## Preview
+<img width="419" height="970" alt="لقطة شاشة 2026-02-08 130803" src="https://github.com/user-attachments/assets/a61d219d-336a-4569-8ed0-cc17c0ec420c" />
 
-Add your screenshots / GIFs here:
-
-- Full assembly view  
-- Compression / extension motion  
-
-Example:
-```md
-![Assembly View](images/assembly.png)
-![Motion](images/motion.gif)
