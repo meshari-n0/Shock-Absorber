@@ -66,7 +66,5 @@ This enables the shock absorber to behave similarly to a real suspension system.
 
 
 https://github.com/user-attachments/assets/a11396f2-417d-4796-9009-76fdaf3534ad
-Fixed The video clip is not available.
-Fixes #1
 
 
